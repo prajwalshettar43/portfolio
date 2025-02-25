@@ -936,4 +936,11 @@
             navLinks.classList.toggle('active');
             const icon = mobileMenuBtn.querySelector('i');
             if (navLinks.classList.contains('active')) {
-                icon.classList.replace
+                icon.classList.replace('fa-bars', 'fa-times');
+            } else {
+                icon.classList.replace('fa-times', 'fa-bars');
+            }
+        });
+    </script>
+</body>
+</html>

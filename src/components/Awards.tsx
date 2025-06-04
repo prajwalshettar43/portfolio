@@ -30,7 +30,7 @@ const Awards = () => {
     {
       title: "Tech-Tronix",
       description:
-        "Secured 1 place in a tech fest with events on coding and team quests organized by the AIML department",
+        "Secured 1st place in a tech fest with events on coding and team quests organized by the AIML department",
       icon: Trophy,
       type: "Competition",
       place: "1st",
